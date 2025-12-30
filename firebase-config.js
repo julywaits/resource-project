@@ -1,6 +1,6 @@
-import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js';
-import { getFirestore } from 'https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js';
-import { getStorage } from 'https://www.gstatic.com/firebasejs/10.7.1/firebase-storage.js';
+import { initializeApp } from 'https://esm.sh/firebase@10.7.1/app';
+import { getFirestore } from 'https://esm.sh/firebase@10.7.1/firestore';
+import { getStorage } from 'https://esm.sh/firebase@10.7.1/storage';
 
 const firebaseConfig = {
   apiKey: "AIzaSyAOnyErMndyq2Lfrj8I0jB0cbTvNpxoGjI",
