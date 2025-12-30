@@ -1,0 +1,5 @@
+{
+  "name": "Enterprise Project Management System",
+  "description": "A robust PWA-ready project management system with offline support using IndexedDB, featuring project tracking, file attachments, and data sharing capabilities.",
+  "requestFramePermissions": []
+}
